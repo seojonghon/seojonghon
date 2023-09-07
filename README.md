@@ -29,14 +29,18 @@ Here are some ideas to get you started:
 - 
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center> 
- <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black“>
- <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black“>
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 <img src=”https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white“>
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black“>
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src ="https://img.shields.io/badge/docker-<VERSION>-blue?logo=docker&logoColor=white>
-<img src ="https://img.shields.io/badge/kubernetes-<VERSION>-blue?logo=kubernetes&logoColor=white>
+<img src="https://img.shields.io/badge/kubernetes-VERSION-blue?logo=kubernetes&logoColor=white">
+<img src="https://img.shields.io/badge/docker-20.10-blue?logo=docker&logoColor=white">
+
+
+
+
 
 </div>
 
