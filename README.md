@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **seojonghon/seojonghon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+😉### Who Am I
+👋#Hi I'm JongHun
+- 🌱 I’m currently learning AWS, Flask, Algorithm
+- 🥇 I majored in Computer Science
+
+### Boot Camp
+
+- 💊 SSG I&C , Cloud Engineer Process 2th (2023.08.07~2024.02.02)
+
+### What I Like
+- 📺 Drama
+- 🔵 Game
+- 🍕 Pizza
