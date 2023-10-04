@@ -21,3 +21,4 @@ Docker 볼륨은 컨테이너 내부나 호스트 시스템 외부에서 데이�
 - **Dockerfile을 작성할 때 명령어를 묶어서 실행하는 것이 유익**
 - **빌더 패턴 또는 다단계 도커 빌드 등을 기법을 이용해서 이미지를 작게 만드는 것이 필요**
 
+[dcc75fd4-958c-41c0-b927-e9e0e46b0756_Export-bf4d0a6a-62fe-4e91-9bda-61c4a552e142.zip](https://github.com/seojonghon/seojonghon/files/12802008/dcc75fd4-958c-41c0-b927-e9e0e46b0756_Export-bf4d0a6a-62fe-4e91-9bda-61c4a552e142.zip)
