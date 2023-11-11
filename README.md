@@ -36,9 +36,13 @@ Here are some ideas to get you started:
 - <img src="https://img.shields.io/badge/kubernetes-1.26-blue?style=for-the-badge&logo=kubernetes&logoColor=white"> <span style="background-color: blue;"><img src="https://img.shields.io/badge/docker-20.10-blue?style=for-the-badge&logo=docker&logoColor=white"></span> ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+<!--
 
 ----------
- **<h2>🔀STATS</h2>**
 
+ **<h2>🔀STATS</h2>**
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seojonghon&show_icons=true&theme=dark)-->
 
+Here are some ideas to get you started:
+
+-->
