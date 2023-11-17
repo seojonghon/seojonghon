@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### Boot Camp
 
--  🏢 **SSG I&C , Cloud Engineer Process 2th **
+-  🏢 **SSG I&C , Cloud Engineer Process 2th**
   
 
 <h1>📚 STACKS</div>
