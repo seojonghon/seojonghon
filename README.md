@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 
 ### Boot Camp
 
--  🏢 **SSG I&C , Cloud Engineer Process 2th (2023.08.07~2024.02.02)**
+-  🏢 **SSG I&C , Cloud Engineer Process 2th **
+  
 
 <h1>📚 STACKS</div>
 
