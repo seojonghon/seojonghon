@@ -7,7 +7,6 @@
 Here are some ideas to get you started:
 
 -->
-![AWS Certified Solutions Architect – Associate badge image. Certification. Intermediate level. Issued by Amazon Web Services Training and Certification](https://images.credly.com/size/100x100/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)
 #  👨‍💻 Hi I'm JongHun
 - 🏫 **I majored in Computer Science (2018~2024)**
 - 🌱 **I’m currently learning AWS, Docker , Flask, Algorithm (  ~ )**
