@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 - 🏢 **I'm working at a Etechsystem as a server/storage engineer (2024.06~)**
   
-- 🌱 **I’m currently learning NetWorkm AWS, Docker, Algorithm ( ing )**
+- 🌱 **I’m still studying NetWork, AWS, Docker, Algorithm ( ~ )**
 
 
 # 📜Certificate
