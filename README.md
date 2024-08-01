@@ -9,17 +9,20 @@ Here are some ideas to get you started:
 -->
 #  👨‍💻 Hi I'm JongHun
 - 🏫 **I majored in Computer Science (2018~2024)**
-- 🌱 **I’m currently learning AWS, Docker , Flask, Algorithm (  ~ )**
+
+- 🏢 **I'm working at a Etechsystem as a server/storage engineer (2024.06~)**
+  
+- 🌱 **I’m currently learning NetWorkm AWS, Docker, Algorithm ( ing )**
 
 
 # 📜Certificate
-- 💻  **Engineer Information Processing<정보 처리 기사> (2023.06.09)** 🎓
+- 💻  **Engineer Information Processing<정보 처리 기사> (2023.06.09)** 
 -  <img src="https://velog.velcdn.com/images/kimyeji203/post/0455f8cf-57aa-42bf-a683-651048348368/image.png" alt="SQLD 데이터 모델링" width="35" height="35"> **SQL Developer (2023.07.07)**
-- ![AWS Certified Solutions Architect – Associate badge image. Certification. Intermediate level. Issued by Amazon Web Services Training and Certification](https://images.credly.com/size/25x25/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)  **AWS Certified Solutions Architect - Associate (SAA-C03) (2310.23)**  
+- ![AWS Certified Solutions Architect – Associate badge image. Certification. Intermediate level. Issued by Amazon Web Services Training and Certification](https://images.credly.com/size/25x25/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)  **AWS Certified Solutions Architect - Associate (SAA-C03) (2023.11)**  
 
 ### Boot Camp
 
--  🏢 **SSG I&C , Cloud Engineer Process 2th**
+-  🎓 **SSG I&C , Cloud Engineer Process 2th**
   
 
 <h1>📚 STACKS</div>
