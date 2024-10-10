@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 
 
 # 📜Certificate
-- 💻  **Engineer Information Processing<정보 처리 기사> (2023.06.09)** 
--  <img src="https://velog.velcdn.com/images/kimyeji203/post/0455f8cf-57aa-42bf-a683-651048348368/image.png" alt="SQLD 데이터 모델링" width="35" height="35"> **SQL Developer (2023.07.07)**
-  **AWS Certified Solutions Architect - Associate (SAA-C03) (2023.11)**  
-  **NetApp Certified Technology Solutions - Professional (NS0-004) (2024.10)**
+- **Engineer Information Processing<정보 처리 기사> (2023.06.09)** 
+- **SQL Developer (2023.07.07)**
+- **AWS Certified Solutions Architect - Associate (SAA-C03) (2023.11)**  
+- **NetApp Certified Technology Solutions - Professional (NS0-004) (2024.10)**
    
 ### Boot Camp
 
