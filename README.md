@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 - **Engineer Information Processing<정보 처리 기사> (2023.06.09)** 
 - **SQL Developer (2023.07.07)**
 - **AWS Certified Solutions Architect - Associate (SAA-C03) (2023.11)**  
-- **NetApp Certified Technology Solutions - Professional (NS0-004) (2024.10)**
-   
+- **NetApp Certified Technology Solutions - Professional NCTSP (NS0-004) (2024.10)**
+- **NetApp Certified Data Administrator ONTAP Professional NCDA (NS0-163) (2025.02)**
+- **NetApp Certified Implementation Engineer - SAN Specialist, ONTAP (NS0-521) NCIE SAN ONTAP (2025.03)**
 ### Boot Camp
 
 -  🎓 **SSG I&C , Cloud Engineer Process 2th**
